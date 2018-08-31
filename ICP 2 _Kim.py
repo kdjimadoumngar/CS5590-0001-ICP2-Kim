@@ -57,4 +57,7 @@ print("The number of characters is:") # Printing the number of characters
     # Inputing a name as list
 
 name = list(input("Please enter a name"))
- first_letter = name[0]
+
+    # Outputing the first letter
+
+first_letter = name[0]
